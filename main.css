@@ -41,6 +41,8 @@ body {
 
 .b {
   padding: 0px 10px 0px 10px;
+  text-decoration: none;
+  color: #000000;
 }
 
 .c {
@@ -62,8 +64,8 @@ body {
   height: 480px;
   left: 0px;
   top: 142px;
-
-  background: #b85b5b;
+  background-image: url( "image/mainBanner.png")
+  /* background: #b85b5b; */
 }
 
 .startBtn {
@@ -73,7 +75,8 @@ body {
   margin-top: 411px;
   border-radius: 10px;
   border-color: #eaeaea;
-  background-color: #eaeaea;
+  color: white;
+  background-color: #F99623;
 }
 
 
